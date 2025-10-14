@@ -10,12 +10,29 @@ This is my journal of the design and building process of **Nimbus**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/503).
 
 
-## 10/14/2025 - Planned materials needed  
+## 10/14/2025 10 AM - Planned materials needed  
 
 I did some research into how shuttle feeding machines work and how my project would be built. 
 
 I also looked at the different types of motors, and I have decided on two: one servo turned into a linear actuator for the pushing rod, and two BLDC high speed (~1250kv) motors based on calculations at 12V and a needed exit velcity of about 40m/s to reach the back court in badminton.
 
 ![PXL_20251014_171352674.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--0e6cc05bcf8ac5a765a62e1f6b4e5b70a0d7d361/PXL_20251014_171352674.jpg)
+  
+
+## 10/14/2025 3 PM - Planning + 3d modelling, parts list  
+
+Looked at cheap motor options on Aliexpress. Since BLDC motors need an ESC driver, I found a 2822 1200KV + 30A ESC kit for RC airplanes that was only 15 dollars, and is very affordable and works for the project. I also did some 3d modelling, planning to use a t-bar shape for the 16x16mm square mount of the motors. 
+
+Now, the required 3d printing files would be something like this:
+2x wheels
+2x brackets
+1x main motor mount
+1x main base + mount for tube
+1x shaft for tripod mount
+1x servo actuator mount
+
+Next, I will try to finish modelling the main mount and planning hardware components.
+
+![PXL_20251014_180353726.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--af05a18b7829ff603fcb7013e5d37868b2063e2d/PXL_20251014_180353726.jpg)
   
 
