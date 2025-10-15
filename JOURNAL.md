@@ -36,3 +36,17 @@ Next, I will try to finish modelling the main mount and planning hardware compon
 ![PXL_20251014_180353726.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--af05a18b7829ff603fcb7013e5d37868b2063e2d/PXL_20251014_180353726.jpg)
   
 
+## 10/14/2025 11 PM - Onshape modelling + printing!  
+
+Did more sketching and learned Onshape basics. It's SOOO much freaking better than fusion! But 3d modelling is still pretty difficult.
+
+Also ordered aliexpress parts, found a crazy BLDC + esc motor deal 1200kv. Started printing the servo -> linear actuator components.
+
+![{7E39B291-6D71-45D9-B368-DDAF85BA5CCF}.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--225492aa1c2e6a23a5753a6dfe05e5f677c90fe4/%7B7E39B291-6D71-45D9-B368-DDAF85BA5CCF%7D.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--46f170f29c21fa29035a5697c2e66d5e9d74b66a/image.png)
+
+
+![{296CE970-413A-4876-8F42-199111E9D645}.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI5MywicHVyIjoiYmxvYl9pZCJ9fQ==--e5c6f1e31cbd6eff85a8cc5867502a66d3d5a352/%7B296CE970-413A-4876-8F42-199111E9D645%7D.png)
+  
+
