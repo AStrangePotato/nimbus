@@ -50,3 +50,14 @@ Also ordered aliexpress parts, found a crazy BLDC + esc motor deal 1200kv. Start
 ![{296CE970-413A-4876-8F42-199111E9D645}.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI5MywicHVyIjoiYmxvYl9pZCJ9fQ==--e5c6f1e31cbd6eff85a8cc5867502a66d3d5a352/%7B296CE970-413A-4876-8F42-199111E9D645%7D.png)
   
 
+## 10/17/2025 - Prototyped linear actuator  
+
+Turns out the gear didn't fit on the linear actuator for the servo. I'm reprinting with a new attachment horn that can fit onto the SG90 servo gears. Also, I continued to take Onshape's beginner modelling course. Did a first attempt at the base of the shuttlecock launcher.
+
+
+
+
+![{35375594-79C1-4073-AA06-1D81D4390515}.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--77c51555c81418a7c76ddb068006f862ed888f56/%7B35375594-79C1-4073-AA06-1D81D4390515%7D.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjgxNywicHVyIjoiYmxvYl9pZCJ9fQ==--763ae55863ec3af30e92e06444c80d398fc3694d/image.png)
+  
+
